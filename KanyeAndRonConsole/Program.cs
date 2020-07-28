@@ -11,6 +11,10 @@ namespace KanyeAndRonConsole
             QuoteGenerator.KanyeQuote();
 
             QuoteGenerator.RonQuote();
+
+            QuoteGenerator.KanyeQuote();
+
+            QuoteGenerator.RonQuote();
         }
     }
 }
